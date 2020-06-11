@@ -1,0 +1,6 @@
+user-service: 8001
+sms-service: 8002
+item-service: 8003
+upload-service: 8004
+registry: 10086
+gateway: 10010

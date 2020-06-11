@@ -1,0 +1,34 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: user-service
+  redis:
+    host: localhost
+    password: 123456
+  rabbitmq:
+    host: localhost
+    username: health
+    password: health
+    virtual-host: /health
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/health?serverTimezone=Asia/Shanghai&useSSL=false&characterEncoding=UTF-8
+    username: root
+    password: root
+    type: com.alibaba.druid.pool.DruidDataSource
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10086/eureka
+    instance:
+      lease-renewal-interval-in-seconds: 5
+      lease-expiration-duration-in-seconds: 15
+mybatis:
+  type-aliases-package: com.health.user.pojo
+health:
+  jwt:
+    secret: Health@Login(Auth}*^31)&heima%      #登录校验的秘钥
+    publicKeyPath: F:\graduationproject\health-manage-parent\tmp\rsa\rsa.pub
+    privateKeyPath: F:\graduationproject\health-manage-parent\tmp\rsa\rsa.pri
+    expire: 30  #过期时间,30分钟

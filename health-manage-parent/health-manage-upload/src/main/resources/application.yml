@@ -1,0 +1,21 @@
+server:
+  port: 8004
+spring:
+  application:
+    name: upload-service
+  servlet:
+    multipart:
+      max-file-size: 5MB
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10086/eureka
+  instance:
+    lease-renewal-interval-in-seconds: 5
+    lease-expiration-duration-in-seconds: 15
+oss.project.parent.folder: health
+oss.endpoint: oss-cn-beijing.aliyuncs.com
+oss.accessKeyId: LTAI4FdrT7QBGdLrVKxSoDck
+oss.accessKeySecret: xOzaMHC61paPele1DOgra3Iqw3HLEh
+oss.bucketName: crowd1998
+oss.bucket.domain: http://crowd1998.oss-cn-beijing.aliyuncs.com

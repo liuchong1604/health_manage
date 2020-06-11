@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="health-manage-dairy-interface" />
+        <module name="health-manage-common" />
+        <module name="health-manage-registry" />
+        <module name="health-manage-dairy-service" />
+        <module name="health-manage-item-service" />
+        <module name="health-manage-sms" />
+        <module name="health-manage-item-interface" />
+        <module name="health-manage-user-service" />
+        <module name="health-manage-food-interface" />
+        <module name="health-manage-upload" />
+        <module name="health-manage-user-interface" />
+        <module name="health-manage-gateway" />
+        <module name="health-manage-food-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="health-item" target="1.8" />
+      <module name="health-manage-auth" target="1.8" />
+      <module name="health-manage-auth-common" target="1.8" />
+      <module name="health-manage-auth-service" target="1.8" />
+      <module name="health-sms" target="1.8" />
+      <module name="health-test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="health-item" options="-parameters" />
+      <module name="health-manage-auth-common" options="-parameters" />
+      <module name="health-manage-auth-service" options="-parameters" />
+      <module name="health-manage-common" options="-parameters" />
+      <module name="health-manage-dairy" options="-parameters" />
+      <module name="health-manage-dairy-interface" options="-parameters" />
+      <module name="health-manage-dairy-service" options="-parameters" />
+      <module name="health-manage-food" options="-parameters" />
+      <module name="health-manage-food-interface" options="-parameters" />
+      <module name="health-manage-food-service" options="-parameters" />
+      <module name="health-manage-gateway" options="-parameters" />
+      <module name="health-manage-item" options="-parameters" />
+      <module name="health-manage-item-interface" options="-parameters" />
+      <module name="health-manage-item-service" options="-parameters" />
+      <module name="health-manage-registry" options="-parameters" />
+      <module name="health-manage-sms" options="-parameters" />
+      <module name="health-manage-upload" options="-parameters" />
+      <module name="health-manage-user" options="-parameters" />
+      <module name="health-manage-user-interface" options="-parameters" />
+      <module name="health-manage-user-service" options="-parameters" />
+      <module name="health-sms" options="-parameters" />
+      <module name="health-test" options="-parameters" />
+    </option>
+  </component>
+</project>

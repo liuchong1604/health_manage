@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-manage-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-manage-dairy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-manage-food" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-manage-food/health-manage-food-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-manage-food/health-manage-food-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-manage-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-manage-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-manage-item/health-manage-item-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-manage-item/health-manage-item-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-manage-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-manage-sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-manage-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-manage-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-manage-user/health-manage-user-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-manage-user/health-manage-user-service" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fb525ad-8f80-447d-aa01-d845ab165cb3" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/health-manage-registry/target/" />
+    <ignored path="$PROJECT_DIR$/health-manage-common/target/" />
+    <ignored path="$PROJECT_DIR$/health-manage-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/health-manage-user/target/" />
+    <ignored path="$PROJECT_DIR$/health-manage-user/health-manage-user-interface/target/" />
+    <ignored path="$PROJECT_DIR$/health-manage-user/health-manage-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/health-manage-auth/target/" />
+    <ignored path="$PROJECT_DIR$/health-manage-auth/health-manage-auth-common/target/" />
+    <ignored path="$PROJECT_DIR$/health-manage-auth/health-manage-auth-service/target/" />
+    <ignored path="$PROJECT_DIR$/health-sms/target/" />
+    <ignored path="$PROJECT_DIR$/health-test/target/" />
+    <ignored path="$PROJECT_DIR$/health-manage-sms/target/" />
+    <ignored path="$PROJECT_DIR$/health-item/target/" />
+    <ignored path="$PROJECT_DIR$/health-manage-item/target/" />
+    <ignored path="$PROJECT_DIR$/health-manage-item/health-manage-item-service/target/" />
+    <ignored path="$PROJECT_DIR$/health-manage-item/health-manage-item-interface/target/" />
+    <ignored path="$PROJECT_DIR$/health-manage-upload/target/" />
+    <ignored path="$PROJECT_DIR$/health-manage-food/target/" />
+    <ignored path="$PROJECT_DIR$/health-manage-food/health-manage-food-interface/target/" />
+    <ignored path="$PROJECT_DIR$/health-manage-food/health-manage-food-service/target/" />
+    <ignored path="$PROJECT_DIR$/health-manage-dairy/target/" />
+    <ignored path="$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-interface/target/" />
+    <ignored path="$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/health-manage-item/health-manage-item-service/src/main/java/com/health/item/service/impl/ExamServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1000">
+              <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/health-manage-gateway/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/src/main/java/com/health/dairy/controller/DairyController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1500">
+              <caret line="76" column="30" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/src/main/java/com/health/dairy/service/IDairyService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1325">
+              <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/src/main/java/com/health/dairy/mapper/IDairyMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/src/main/java/com/health/dairy/service/impl/DairyServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3700">
+              <caret line="167" column="5" selection-start-line="167" selection-start-column="5" selection-end-line="167" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/health-manage-food/health-manage-food-service/src/main/java/com/health/food/service/impl/FoodServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/health-manage-user/health-manage-user-service/src/main/java/com/health/user/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3725">
+              <caret line="177" selection-start-line="177" selection-end-line="177" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/health-manage-item/health-manage-item-service/src/main/java/com/health/item/service/impl/ArticleServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1250">
+              <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-interface/src/main/java/com/health/dairy/pojo/Dairy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="27" column="28" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>inv</find>
+      <find>un</find>
+      <find>used</find>
+      <find>bad</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/health-manage-dairy/pom.xml" />
+        <option value="$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/src/main/java/com/health/dairy/mapper/DairyMapper.java" />
+        <option value="$PROJECT_DIR$/health-manage-food/health-manage-food-interface/src/main/java/com/health/food/pojo/Type.java" />
+        <option value="$PROJECT_DIR$/health-manage-food/health-manage-food-service/src/main/java/com/health/food/mapper/ITypeMapper.java" />
+        <option value="$PROJECT_DIR$/health-manage-food/health-manage-food-service/src/main/java/com/health/food/service/impl/ITypeService.java" />
+        <option value="$PROJECT_DIR$/health-manage-food/health-manage-food-service/src/main/java/com/health/food/service/ITypeService.java" />
+        <option value="$PROJECT_DIR$/health-manage-food/health-manage-food-service/src/main/java/com/health/food/service/impl/TypeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/health-manage-food/health-manage-food-interface/src/main/java/com/health/food/pojo/Food.java" />
+        <option value="$PROJECT_DIR$/health-manage-user/health-manage-user-interface/src/main/java/com/health/user/bo/EvaluateBo.java" />
+        <option value="$PROJECT_DIR$/health-manage-user/health-manage-user-service/src/main/java/com/health/user/controller/HealthController.java" />
+        <option value="$PROJECT_DIR$/health-manage-item/health-manage-item-service/src/main/java/com/health/item/mapper/ExamSelectProvider.java" />
+        <option value="$PROJECT_DIR$/health-manage-item/health-manage-item-service/src/main/java/com/health/item/mapper/IExamMapper.java" />
+        <option value="$PROJECT_DIR$/health-manage-item/health-manage-item-service/src/main/java/com/health/item/controller/ToolController.java" />
+        <option value="$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/health-manage-food/health-manage-food-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/pom.xml" />
+        <option value="$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/src/main/java/com/health/dairy/HealthDairyApplication.java" />
+        <option value="$PROJECT_DIR$/health-manage-food/health-manage-food-service/src/main/java/com/health/food/mapper/IFoodMapper.java" />
+        <option value="$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-interface/src/main/java/com/health/dairy/pojo/Dairy.java" />
+        <option value="$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-interface/src/main/java/com/health/dairy/bo/DairyBo.java" />
+        <option value="$PROJECT_DIR$/health-manage-food/health-manage-food-service/src/main/java/com/health/food/service/IFoodService.java" />
+        <option value="$PROJECT_DIR$/health-manage-food/health-manage-food-service/src/main/java/com/health/food/service/impl/FoodServiceImpl.java" />
+        <option value="$PROJECT_DIR$/health-manage-upload/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-interface/src/main/java/com/health/dairy/pojo/FoodDairy.java" />
+        <option value="$PROJECT_DIR$/health-manage-food/health-manage-food-interface/src/main/java/com/health/food/api/FoodApi.java" />
+        <option value="$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/src/main/java/com/health/dairy/client/DairyClient.java" />
+        <option value="$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/src/main/java/com/health/dairy/mapper/IDairyMapper.java" />
+        <option value="$PROJECT_DIR$/health-manage-user/health-manage-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/health-manage-item/health-manage-item-service/src/main/java/com/health/item/service/ICategoryService.java" />
+        <option value="$PROJECT_DIR$/health-manage-item/health-manage-item-service/src/main/java/com/health/item/controller/CategoryController.java" />
+        <option value="$PROJECT_DIR$/health-manage-item/health-manage-item-service/src/main/java/com/health/item/service/impl/CategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/health-manage-sms/src/main/java/com/health/sms/listener/SmsListener.java" />
+        <option value="$PROJECT_DIR$/health-manage-upload/src/main/java/com/health/upload/service/impl/UploadServiceImpl.java" />
+        <option value="$PROJECT_DIR$/health-manage-item/health-manage-item-service/src/main/java/com/health/item/service/IExamService.java" />
+        <option value="$PROJECT_DIR$/health-manage-item/health-manage-item-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/health-manage-item/health-manage-item-interface/src/main/java/com/health/item/pojo/Examination.java" />
+        <option value="$PROJECT_DIR$/health-manage-food/health-manage-food-service/src/main/java/com/health/food/controller/FoodController.java" />
+        <option value="$PROJECT_DIR$/health-manage-item/health-manage-item-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/health-manage-user/health-manage-user-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/health-manage-user/health-manage-user-interface/src/main/java/com/health/user/pojo/User.java" />
+        <option value="$PROJECT_DIR$/health-manage-user/health-manage-user-service/src/main/java/com/health/user/service/IUserService.java" />
+        <option value="$PROJECT_DIR$/health-manage-user/health-manage-user-service/src/main/java/com/health/user/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/health-manage-item/health-manage-item-service/src/main/java/com/health/item/controller/ExamController.java" />
+        <option value="$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/src/main/java/com/health/dairy/controller/DairyController.java" />
+        <option value="$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/src/main/java/com/health/dairy/service/IDairyService.java" />
+        <option value="$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/src/main/java/com/health/dairy/service/impl/DairyServiceImpl.java" />
+        <option value="$PROJECT_DIR$/health-manage-user/health-manage-user-service/src/main/java/com/health/user/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/health-manage-item/health-manage-item-service/src/main/java/com/health/item/service/impl/ArticleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/health-manage-item/health-manage-item-service/src/main/java/com/health/item/service/impl/ExamServiceImpl.java" />
+        <option value="$PROJECT_DIR$/health-manage-gateway/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\apache-maven-3.6.1\conf\repo" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="health-manage-dairy-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="health-manage-dairy-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="675" />
+    <option name="y" value="-8" />
+    <option name="width" value="699" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="health-manage-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="health-manage-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="health-manage-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="health-manage-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="health-manage-dairy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="health-manage-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="health-manage-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="health-manage-gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="health-manage-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="health-manage-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="health-manage-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="health-manage-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="health-manage-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="health-manage-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="health-manage-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="health-manage-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="health-manage-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="health-manage-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="health-manage-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="health-manage-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="health-manage-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="health-manage-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="health-manage-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="health" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="health-manage-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="health-manage-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="health-manage-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="health" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="health-manage-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="health-manage-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="health-manage-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/health-sms" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.splitter.proportion" value="0.39966834" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\graduationproject\health-manage-parent\health-manage-gateway\src\main\java\com\health\config" />
+      <recent name="F:\graduationproject\health-manage-parent\health-manage-user\health-manage-user-service\src\main\java\com\health\user\utils" />
+      <recent name="F:\graduationproject\health-manage-parent\health-manage-common\src\main\java\com\health\utils" />
+      <recent name="F:\graduationproject\health-manage-parent\health-manage-user\health-manage-user-interface\src\main\java\com\health\user\utils" />
+      <recent name="F:\graduationproject\health-manage-parent\health-manage-auth\health-manage-auth-common\src\main\java\com\health\common\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.26893353" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.HealthDairyApplication">
+    <configuration name="RedisTest.testRedis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="health-manage-user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.test.RedisTest" />
+      <option name="METHOD_NAME" value="testRedis" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testMessage.sendCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="health-sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.testMessage" />
+      <option name="METHOD_NAME" value="sendCode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HealthDairyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="health-manage-dairy-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.health.dairy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.health.dairy.HealthDairyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HealthGateWayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="health-manage-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.health.HealthGateWayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HealthItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="health-manage-item-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.health.item.HealthItemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HealthManageFoodApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="health-manage-food-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.health.food.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.health.food.HealthManageFoodApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HealthManageRegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="health-manage-registry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.health.HealthManageRegistryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HealthManageSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="health-manage-sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.health.sms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.health.sms.HealthManageSmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HealthUploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="health-manage-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.health.HealthUploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="health-manage-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.health.user.UserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.testMessage.sendCode" />
+      <item itemvalue="JUnit.RedisTest.testRedis" />
+      <item itemvalue="Spring Boot.HealthGateWayApplication" />
+      <item itemvalue="Spring Boot.UserServiceApplication" />
+      <item itemvalue="Spring Boot.HealthManageRegistryApplication" />
+      <item itemvalue="Spring Boot.HealthItemApplication" />
+      <item itemvalue="Spring Boot.HealthUploadApplication" />
+      <item itemvalue="Spring Boot.HealthManageSmsApplication" />
+      <item itemvalue="Spring Boot.HealthManageFoodApplication" />
+      <item itemvalue="Spring Boot.HealthDairyApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.HealthDairyApplication" />
+        <item itemvalue="Spring Boot.HealthManageFoodApplication" />
+        <item itemvalue="Spring Boot.HealthManageSmsApplication" />
+        <item itemvalue="JUnit.RedisTest.testRedis" />
+        <item itemvalue="JUnit.testMessage.sendCode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration useDefault="false">D:\SVN\subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fb525ad-8f80-447d-aa01-d845ab165cb3" name="Default Changelist" comment="" />
+      <created>1580624722154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580624722154</updated>
+      <workItem from="1580624723638" duration="3418000" />
+      <workItem from="1581830158670" duration="2216000" />
+      <workItem from="1581928709149" duration="3910000" />
+      <workItem from="1582077861747" duration="3565000" />
+      <workItem from="1582093528341" duration="3269000" />
+      <workItem from="1582158610877" duration="6982000" />
+      <workItem from="1582172428492" duration="5116000" />
+      <workItem from="1582179046707" duration="7832000" />
+      <workItem from="1582260877507" duration="15441000" />
+      <workItem from="1582600710976" duration="8041000" />
+      <workItem from="1582937609444" duration="7710000" />
+      <workItem from="1582958959877" duration="8616000" />
+      <workItem from="1583303006909" duration="2087000" />
+      <workItem from="1583305127523" duration="347000" />
+      <workItem from="1583305478439" duration="66000" />
+      <workItem from="1583305587841" duration="415000" />
+      <workItem from="1583306162127" duration="651000" />
+      <workItem from="1583306988792" duration="2736000" />
+      <workItem from="1583369753810" duration="5689000" />
+      <workItem from="1583378801151" duration="246000" />
+      <workItem from="1583379172719" duration="737000" />
+      <workItem from="1583380069779" duration="2069000" />
+      <workItem from="1583395896935" duration="471000" />
+      <workItem from="1583560906295" duration="7155000" />
+      <workItem from="1583721058877" duration="4876000" />
+      <workItem from="1583815762922" duration="8843000" />
+      <workItem from="1584253588400" duration="1464000" />
+      <workItem from="1584696978005" duration="6475000" />
+      <workItem from="1585371433117" duration="1674000" />
+      <workItem from="1585878656657" duration="2595000" />
+      <workItem from="1586581923715" duration="6766000" />
+      <workItem from="1586671938544" duration="9072000" />
+      <workItem from="1586937425458" duration="4094000" />
+      <workItem from="1587170529549" duration="1630000" />
+      <workItem from="1587173299528" duration="1357000" />
+      <workItem from="1587301574263" duration="1242000" />
+      <workItem from="1587360576994" duration="1889000" />
+      <workItem from="1587520851649" duration="6137000" />
+      <workItem from="1587602548957" duration="1980000" />
+      <workItem from="1587692716148" duration="1175000" />
+      <workItem from="1587862357128" duration="3800000" />
+      <workItem from="1588033062464" duration="12595000" />
+      <workItem from="1588121115093" duration="19935000" />
+      <workItem from="1588302228636" duration="4526000" />
+      <workItem from="1588408957441" duration="7748000" />
+      <workItem from="1588511347287" duration="4872000" />
+      <workItem from="1588558649663" duration="7970000" />
+      <workItem from="1588745986621" duration="16297000" />
+      <workItem from="1588774670767" duration="2864000" />
+      <workItem from="1588814182102" duration="10473000" />
+      <workItem from="1588898464847" duration="7627000" />
+      <workItem from="1588918330177" duration="12968000" />
+      <workItem from="1588982968944" duration="11719000" />
+      <workItem from="1589354170527" duration="9275000" />
+      <workItem from="1589415173435" duration="1775000" />
+      <workItem from="1589529162908" duration="3976000" />
+      <workItem from="1590048977944" duration="1642000" />
+      <workItem from="1590151398291" duration="3485000" />
+      <workItem from="1590158579385" duration="7809000" />
+      <workItem from="1590196786533" duration="19221000" />
+      <workItem from="1590371829797" duration="2851000" />
+      <workItem from="1590588056940" duration="3742000" />
+      <workItem from="1590635712416" duration="23055000" />
+      <workItem from="1590716347194" duration="19945000" />
+      <workItem from="1590888773493" duration="70000" />
+      <workItem from="1590890657809" duration="5228000" />
+      <workItem from="1591162162668" duration="5458000" />
+      <workItem from="1591232202230" duration="3379000" />
+      <workItem from="1591325824399" duration="5976000" />
+      <workItem from="1591497429342" duration="3643000" />
+      <workItem from="1591542643780" duration="5096000" />
+      <workItem from="1591581851105" duration="1548000" />
+      <workItem from="1591591266614" duration="1056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="testMessage_sendCode - 2020.02.29 at 09h 16m 00s.xml">
+      <configuration name="testMessage.sendCode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testMessage_sendCode - 2020.02.29 at 09h 20m 29s.xml">
+      <configuration name="testMessage.sendCode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testMessage_sendCode - 2020.02.29 at 09h 26m 22s.xml">
+      <configuration name="testMessage.sendCode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testMessage_sendCode - 2020.02.29 at 09h 50m 17s.xml">
+      <configuration name="testMessage.sendCode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testMessage_sendCode - 2020.02.29 at 09h 56m 08s.xml">
+      <configuration name="testMessage.sendCode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testMessage_sendCode - 2020.02.29 at 10h 06m 28s.xml">
+      <configuration name="testMessage.sendCode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testMessage_sendCode - 2020.02.29 at 10h 07m 53s.xml">
+      <configuration name="testMessage.sendCode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_testRedis - 2020.02.29 at 15h 59m 31s.xml">
+      <configuration name="RedisTest.testRedis" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_testRedis - 2020.02.29 at 16h 00m 22s.xml">
+      <configuration name="RedisTest.testRedis" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_testRedis - 2020.02.29 at 16h 02m 28s.xml">
+      <configuration name="RedisTest.testRedis" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="411678000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.120272316" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41935483" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32872504" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32872504" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.1920123" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="14" visible="true" weight="0.47926268" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.40552995" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.27609682" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/health-manage-user/health-manage-user-service/src/main/java/com/health/user/controller/AdminController.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/health-manage-user/health-manage-user-service/src/main/java/com/health/user/service/impl/UserServiceImpl.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/health-manage-food/health-manage-food-service/src/main/java/com/health/food/controller/FoodController.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/health-manage-user/health-manage-user-service/src/main/java/com/health/user/controller/UserController.java</url>
+          <line>125</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/health_manage_parent$HealthManageSmsApplication.ic" NAME="HealthManageSmsApplication Coverage Results" MODIFIED="1583820436459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.health.sms.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>map2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/maven/apache-maven-3.6.1/conf/repo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/session/defaults/DefaultSqlSessionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#2561#2562#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/apache-maven-3.6.1/conf/repo/org/mybatis/mybatis-spring/1.3.2/mybatis-spring-1.3.2.jar!/org/mybatis/spring/SqlSessionTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="171" selection-start-line="171" selection-end-line="171" />
+          <folding>
+            <element signature="e#6620#6621#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/apache-maven-3.6.1/conf/repo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/session/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="688" selection-start-line="688" selection-end-line="688" />
+          <folding>
+            <element signature="e#25520#25521#0" expanded="true" />
+            <element signature="e#26644#26645#0" expanded="true" />
+            <element signature="e#26705#26706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/apache-maven-3.6.1/conf/repo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/mapping/MappedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#1681#1682#0" expanded="true" />
+            <element signature="e#1869#1870#0" expanded="true" />
+            <element signature="e#1899#1900#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/apache-maven-3.6.1/conf/repo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/reflection/TypeParameterResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/apache-maven-3.6.1/conf/repo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/binding/MapperMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/apache-maven-3.6.1/conf/repo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/binding/MapperProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/apache-maven-3.6.1/conf/repo/org/springframework/spring-core/5.1.7.RELEASE/spring-core-5.1.7.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/apache-maven-3.6.1/conf/repo/org/springframework/spring-tx/5.1.7.RELEASE/spring-tx-5.1.7.RELEASE.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="115" column="21" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/apache-maven-3.6.1/conf/repo/org/springframework/spring-aop/5.1.7.RELEASE/spring-aop-5.1.7.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="484" column="22" selection-start-line="484" selection-start-column="22" selection-end-line="484" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/apache-maven-3.6.1/conf/repo/org/springframework/spring-webmvc/5.1.7.RELEASE/spring-webmvc-5.1.7.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="510" selection-start-line="510" selection-end-line="510" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/apache-maven-3.6.1/conf/repo/org/springframework/spring-webmvc/5.1.7.RELEASE/spring-webmvc-5.1.7.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="517" column="27" selection-start-line="517" selection-start-column="27" selection-end-line="517" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/apache-maven-3.6.1/conf/repo/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-item/health-manage-item-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-interface/src/main/java/com/health/dairy/pojo/FoodDairy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-item/health-manage-item-interface/src/main/java/com/health/item/pojo/Examination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding>
+            <element signature="e#1050#1051#0" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="72" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-user/health-manage-user-service/src/main/java/com/health/user/config/JwtProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-user/health-manage-user-interface/src/main/java/com/health/user/utils/RsaUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-common/src/main/java/com/health/utils/SmsUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-food/health-manage-food-service/src/main/java/com/health/food/controller/FoodController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/apache-maven-3.6.1/conf/repo/commons-codec/commons-codec/1.11/commons-codec-1.11.jar!/org/apache/commons/codec/digest/DigestUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-user/health-manage-user-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-common/src/main/java/com/health/utils/CookieUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-user/health-manage-user-interface/src/main/java/com/health/user/pojo/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-user/health-manage-user-interface/src/main/java/com/health/user/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-gateway/src/main/java/com/health/HealthGateWayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-user/health-manage-user-service/src/main/java/com/health/user/UserServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-user/health-manage-user-service/src/main/java/com/health/user/utils/CodeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-user/health-manage-user-service/src/main/java/com/health/user/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3700">
+          <caret line="163" column="27" selection-start-line="163" selection-start-column="27" selection-end-line="163" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-user/health-manage-user-service/src/main/java/com/health/user/controller/HealthController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1375">
+          <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/apache-maven-3.6.1/conf/repo/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/http/ResponseEntity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-item/health-manage-item-service/src/main/java/com/health/item/controller/ExamController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="80" column="43" selection-start-line="80" selection-start-column="43" selection-end-line="80" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-sms/src/main/java/com/health/sms/HealthManageSmsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/apache-maven-3.6.1/conf/repo/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/http/HttpStatus.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-user/health-manage-user-service/src/main/java/com/health/user/service/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="103" column="11" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-food/health-manage-food-interface/src/main/java/com/health/food/api/FoodApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/src/main/java/com/health/dairy/client/DairyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-item/health-manage-item-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-item/health-manage-item-service/src/main/java/com/health/item/service/impl/ExamServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/src/main/java/com/health/dairy/controller/DairyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="76" column="30" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/src/main/java/com/health/dairy/service/IDairyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1325">
+          <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/src/main/java/com/health/dairy/mapper/IDairyMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-service/src/main/java/com/health/dairy/service/impl/DairyServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3700">
+          <caret line="167" column="5" selection-start-line="167" selection-start-column="5" selection-end-line="167" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-food/health-manage-food-service/src/main/java/com/health/food/service/impl/FoodServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-user/health-manage-user-service/src/main/java/com/health/user/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3725">
+          <caret line="177" selection-start-line="177" selection-end-line="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-item/health-manage-item-service/src/main/java/com/health/item/service/impl/ArticleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1250">
+          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health-manage-dairy/health-manage-dairy-interface/src/main/java/com/health/dairy/pojo/Dairy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|health-manage-upload</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
