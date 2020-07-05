@@ -10,7 +10,7 @@ spring:
     virtual-host: /health
 health:
   sms:
-    accessKeyId: LTAI4FnRcmwAePK8PNLxTsog
-    accessKeySecret: EcAjWYH5CB9weK3c1s5gPS52oJf14x
+    accessKeyId: ************************
+    accessKeySecret: ******************************
     signName: 雨霖铃  #签名名称
     verifyCodeTemplate: SMS_176523981 #模板名称
